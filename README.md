@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0x2080
+- 👋 Hi, I’m @0x3070
 - 👀 I’m interested in nft
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
